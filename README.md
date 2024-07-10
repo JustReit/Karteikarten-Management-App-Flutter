@@ -1,16 +1,28 @@
-# karteikarten_manager
+# Karteikarten-Managment-App-Flutter
 
-Karteikarten Übersicht App
+App um Lernen mit Karteikarten übersichtlicher zu gestalten
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### Karteikarten-Suche
+- **Suchfunktion:** Über das Suchfeld in der App können Sie gezielt nach Karteikarten suchen. Karteikarten, die nicht den Suchbegriff enthalten, werden automatisch aus der Liste entfernt.
 
-A few resources to get you started if this is your first Flutter project:
+### Sortieren
+- **Sortiermethoden:** Sie können Ihre Karteikarten nach verschiedenen Methoden sortieren, um eine bessere Übersicht zu erhalten.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Anzeigen fälliger Karteikarten
+- **Heutige Karteikarten:** Die App bietet die Möglichkeit, nur die Karteikarten anzuzeigen, die heute fällig sind. Dies hilft Ihnen, sich auf das Wesentliche zu konzentrieren.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Kalenderübersicht
+- **Kalenderansicht:** Die App bietet ebenfalls die Möglichkeit,  die Karteikarten in einer Kalenderansicht anzeigen zu lassen. Dies hilft Ihnen, sich eine überblick über die nächsten Tage/Wochen oder Monate zuverschaffen.
+
+### Dark- und Light-Mode
+- **Thema wechseln:** Die App unterstützt sowohl einen dunklen als auch einen hellen Modus, sodass Sie das Erscheinungsbild nach Ihren Vorlieben anpassen können.
+
+### Automatisch erweiternder "Durchlauf Tracker"
+- **Durchlauf Tracker:** Der "Durchlauf Tracker" erweitert sich automatisch, damit Sie soviele Durchgänge machen können wie Sie wollen.
+
+### Umfangreiche Statistiken
+- **Statistiken:** Die App bietet eine Vielzahl an Statistiken, um Ihren Lernfortschritt zu analysieren und zu optimieren.
+
+---
